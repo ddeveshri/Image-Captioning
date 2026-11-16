@@ -15,18 +15,16 @@ Key Features
 
 ## Tech Stack
 
-| Component | Technology |
-
-| Programming Language | Python |
-| Deep Learning | PyTorch |
-| CNN Architecture | ResNet50 |
-| Sequence Modeling | LSTM |
-| Image Processing | PIL, torchvision |
-| NLP Preprocessing | Tokenization, Vocabulary Mapping |
-| Dataset | Flickr8k |
-| Evaluation | BLEU-4 |
-| Visualization | Matplotlib |
-| Development Environment | Google Colab, Jupyter Notebook |
+Programming Language - Python 
+Deep Learning - PyTorch
+CNN Architecture - ResNet50
+Sequence Modeling - LSTM 
+Image Processing - PIL, torchvision 
+NLP Preprocessing - Tokenization, Vocabulary Mapping 
+Dataset - Flickr8k 
+Evaluation - BLEU-4 
+Visualization - Matplotlib 
+Development Environment - Google Colab, Jupyter Notebook 
 
 ## Dataset
 
